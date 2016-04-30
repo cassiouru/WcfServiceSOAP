@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="799f3ce9-5c31-44ab-909e-36a40e1a02b6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:65530/ObtemCidadePorEstado.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ObtemCidadePorEstado.xsd" MetadataType="Schema" ID="fb256895-2a7d-4a34-ab29-a781bc1d1b99" SourceId="1" SourceUrl="http://localhost:65530/ObtemCidadePorEstado.svc?xsd=xsd0" />
+    <MetadataFile FileName="ObtemCidadePorEstado1.xsd" MetadataType="Schema" ID="a6537304-db3c-4fae-bf07-28aaed5f479f" SourceId="1" SourceUrl="http://localhost:65530/ObtemCidadePorEstado.svc?xsd=xsd2" />
+    <MetadataFile FileName="ObtemCidadePorEstado.wsdl" MetadataType="Wsdl" ID="a920a7fc-73fe-470d-b07b-9da3648f3d57" SourceId="1" SourceUrl="http://localhost:65530/ObtemCidadePorEstado.svc?wsdl" />
+    <MetadataFile FileName="ObtemCidadePorEstado2.xsd" MetadataType="Schema" ID="e5920497-77ad-4cfc-afc2-6b2155671d49" SourceId="1" SourceUrl="http://localhost:65530/ObtemCidadePorEstado.svc?xsd=xsd1" />
+    <MetadataFile FileName="ObtemCidadePorEstado.disco" MetadataType="Disco" ID="82392e95-8ba4-45be-b847-a845967d6850" SourceId="1" SourceUrl="http://localhost:65530/ObtemCidadePorEstado.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

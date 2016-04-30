@@ -1,0 +1,6 @@
+C:\Users\Juliana\Desktop\WcfServiceSOAP\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\Juliana\Desktop\WcfServiceSOAP\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\Juliana\Desktop\WcfServiceSOAP\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\Juliana\Desktop\WcfServiceSOAP\WcfClient\obj\Debug\WcfClient.csprojResolveAssemblyReference.cache
+C:\Users\Juliana\Desktop\WcfServiceSOAP\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\Juliana\Desktop\WcfServiceSOAP\WcfClient\obj\Debug\WcfClient.pdb
